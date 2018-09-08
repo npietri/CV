@@ -103,7 +103,7 @@ section .heading h2{
 #about .heading h2{
     color: #FFF;
     text-transform: uppercase;
-    font-family: fantasy;
+    font-family: lato, sans-serif;
 
   
     
@@ -112,7 +112,7 @@ section .heading h2{
 #about .heading h3{
     color: #000; 
     font-size: 18px;
-    font-family: fantasy;
+    font-family: lato, sans-serif;
     font-style: oblique;
     color:#83A07B;
     padding-top: none;
